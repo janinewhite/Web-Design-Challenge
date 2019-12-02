@@ -4,4 +4,4 @@ I created a website based on Standford's Mass Shooting in America dataset using 
 
 Visit the website at https://janinewhite.github.io/Web-Design-Challenge/.
 
-![Plot Summary]()
+![Plot Summary](https://github.com/janinewhite/Web-Design-Challenge/blob/master/Images/Summary.png?raw=true)
